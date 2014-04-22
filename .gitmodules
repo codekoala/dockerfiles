@@ -1,3 +1,12 @@
 [submodule "percona"]
 	path = percona
 	url = git@github.com:codekoala/docker-percona
+[submodule "pypi"]
+	path = pypi
+	url = git@github.com:codekoala/docker-pypi
+[submodule "redis"]
+	path = redis
+	url = git@github.com:codekoala/docker-redis
+[submodule "salt"]
+	path = salt
+	url = git@github.com:codekoala/docker-saltyarch
